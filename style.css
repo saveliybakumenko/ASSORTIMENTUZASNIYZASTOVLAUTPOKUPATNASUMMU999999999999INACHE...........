@@ -1,0 +1,31 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: aquamarine;
+}
+
+h1 {
+    color: rgb(141, 97, 110);
+    text-align: center;
+}
+
+.contacts {
+    background-color: rgb(243, 205, 39);
+    border: 1px rgb(159, 58, 58);
+}
+
+.pinpong {
+    border-radius: 17px;
+    border: solid rgba(47, 123, 174, 0.738);
+    color: rgba(47, 123, 174, 0.738);
+    padding: 3px 18px 3px 18px;
+    margin: 10px;
+    text-decoration: none;
+}
+
+.ckapibara {
+    background-color: rgb(96, 194, 170);
+    border-radius: 5px;
+}
